@@ -35,10 +35,10 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yamunash" target="_blank">
+  <a href="https://www.linkedin.com/in/yamuna-s-h-010709221" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:Yamunash@465gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" />
   </a>
 </p>
