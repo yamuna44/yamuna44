@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently training in **Data Science** at *Besant Technologies Pvt Ltd*
+- 🌱 Completed Comprehensive training in **Data Science** at *Besant Technologies Pvt Ltd*
 - 📊 Passionate about turning **data into stories** through **visualization, statistics, and machine learning**
 - 🧠 Learning tools like **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL**, and **Power BI**
 - 🔍 Actively seeking **entry-level roles** in **Data Science or Analytics**
